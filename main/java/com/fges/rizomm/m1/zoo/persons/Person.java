@@ -8,7 +8,7 @@ import java.util.List;
 
 public abstract class Person {
 
-   /* private List<Animal> animals = new ArrayList<Animal>();
+    private List<Animal> animals = new ArrayList<Animal>();
 
     public List<Animal> getAnimals() {
         return animals;
@@ -20,7 +20,7 @@ public abstract class Person {
 
     public void addAnimal(Animal animal) {
         this.animals.add(animal);
-    }*/
+    }
 
 
     private String firstName;
